@@ -16,7 +16,7 @@ To create a dedicated environment for testing and developing automation solution
 
 - A Windows and/or Linux machine will be configured for running automation scripts and tools. Follow the steps outlined here: [Windows Lab Setup Guide](https://github.com/mmhgwyjs/windows-lab?tab=readme-ov-file#initial-setup) or [Linux Lab Setup Guide](https://github.com/mmhgwyjs/linux-lab?tab=readme-ov-file#initial-setup).  
 
-***3. Installing an IDE***
+***3. Installing an IDE in Windows***
 
 To facilitate development, we will install **Visual Studio Code (VS Code)**:  
 
